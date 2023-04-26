@@ -1,0 +1,1 @@
+hai this is static file i have build to check the static parameter.
